@@ -113,7 +113,7 @@ Hora de comienzo: 11:45h
 * [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
-<img height="36px" src="sipadan.jpg">
+<img height="38px" src="sipadan.png">
 
 * Hora de comienzo: 13:30h
 
