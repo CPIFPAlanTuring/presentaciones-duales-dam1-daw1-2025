@@ -15,23 +15,22 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación (formato elegido y pdf), además de cualquier otra información que considere relevante.
 
-### :calendar: Lunes 27 de mayo de 2024 - Turno de mañana
+### :calendar: Martes 27 de mayo de 2025 - Turno de mañana
 
 <img height="36px" src="accenture.svg">
 
-* Hora de comienzo: 11:45h
+* Hora de comienzo: 10:15h
 
 ##### 1ºDAW
 
-* [Colomer, Bárbara Palmira](https://github.com/bcolomer/dual2024)
-* [Lázaro Zambrano, Gonzálo](https://github.com/GLazaro8/Dual2024)
-* [Ramos Alarcón, Sergio](https://github.com/Kazuma275/presentacion-Accenture/tree/main)
+* [López Calderón, Ignacio](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
 ##### 1ºDAM
 
-* [Leiva López, Eloy](https://github.com/eleilop/presentacion-dual)
+* [González Ortiz, María del Rosario](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Faura Matín, Lucas](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
