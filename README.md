@@ -36,29 +36,19 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="28px" src="viewnext.png">
 
-* Hora de comienzo: 12:15h
+* Hora de comienzo: 10:40h
 
 ##### 1º DAW
 
-* [López Guerrero, Álvaro](enlace-al-repositorio-con-el-material)
-* [Chacón Macías, Juan Francisco](https://github.com/JuanFranCM/Dual-VN)
-* [Alarcón Fortes, Manuel](https://github.com/ManAlarFor/dual2024)
+* [García Maldonado, Carlos Hugo](enlace-al-repositorio-con-el-material)
+* [Jimenez Gonzalez, Juan](enlace-al-repositorio-con-el-material)
+* [Hernandez Montoya, Laura](enlace-al-repositorio-con-el-material)
+* [Villena, Lucia](enlace-al-repositorio-con-el-material)
+* [Diaz Plaza, Miriam](enlace-al-repositorio-con-el-material)
 
 ##### 1º DAM
-* [Lázaro Zambrano, Ignacio](https://github.com/Chito1811/Presentaci-nDUAL)
-* [Avella Pérez, Samuel](https://github.com/SamuelAvella/Presentaci-n-dual)
-
-<hr>
-
-<img height="36px" src="ada.jpg">
-
-* Hora de comienzo: 12:50h
-
-##### 1º DAW
-
-* [Leiva García, Álvaro](enlace-al-repositorio-con-el-material)
-* [Barnestein Martos, Alejandro](enlace-al-repositorio-con-el-material)
-* [Avila Rosas, Miguel Ángel](enlace-al-repositorio-con-el-material)
+* [Jiménez Muñoz, Álvaro](enlace-al-repositorio-con-el-material)
+* [Domínguez González, José Antonio](enlace-al-repositorio-con-el-material)
 
 <hr>
 
@@ -80,6 +70,18 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 ##### 1º DAM
 
 * [Gallego Ríos, Boris](https://github.com/Boris027/presentacion-dual)
+
+<hr>
+
+<img height="36px" src="ada.jpg">
+
+* Hora de comienzo: 12:50h
+
+##### 1º DAW
+
+* [Leiva García, Álvaro](enlace-al-repositorio-con-el-material)
+* [Barnestein Martos, Alejandro](enlace-al-repositorio-con-el-material)
+* [Avila Rosas, Miguel Ángel](enlace-al-repositorio-con-el-material)
 
 <hr>
 
