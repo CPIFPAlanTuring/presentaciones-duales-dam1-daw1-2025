@@ -113,15 +113,17 @@ Hora de comienzo: 11:45h
 * [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
-<img height="36px" src="ada.jpg">
+<img height="36px" src="sipadan.jpg">
 
-* Hora de comienzo: 12:50h
+* Hora de comienzo: 13:30h
 
 ##### 1º DAW
 
-* [Leiva García, Álvaro](enlace-al-repositorio-con-el-material)
-* [Barnestein Martos, Alejandro](enlace-al-repositorio-con-el-material)
-* [Avila Rosas, Miguel Ángel](enlace-al-repositorio-con-el-material)
+* [Navajas García, Gonzalo](enlace-al-repositorio-con-el-material)
+
+##### 1º DAM
+
+* [Salces Alcaraz, Antonio](enlace-al-repositorio-con-el-material)
 
 <hr>
 
