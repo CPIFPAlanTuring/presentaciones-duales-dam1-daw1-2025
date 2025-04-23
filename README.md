@@ -97,7 +97,7 @@ Hora de comienzo: 11:45h
 
 <hr>
 
-<img height="38px" src="iuitlm.png">
+<img height="42px" src="iuitlm.png">
 
 * Hora de comienzo: 13:00h
 
