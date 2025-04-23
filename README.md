@@ -113,17 +113,7 @@ Hora de comienzo: 11:45h
 * [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
-<img height="36px" src="sipadan.png">
-
-* Hora de comienzo: 13:30h
-
-##### 1º DAW
-
-* [Navajas García, Gonzalo](enlace-al-repositorio-con-el-material)
-
-##### 1º DAM
-
-* [Salces Alcaraz, Antonio](enlace-al-repositorio-con-el-material)
+<img height="37px" src="sipadan.png">
 
 
 ### :calendar: Lunes 27 de mayo de 2024 - Turno de tarde
@@ -144,91 +134,87 @@ Hora de comienzo: 11:45h
 
 <img height="28px" src="viewnext.png">
 
-* Hora de comienzo: 15:35h
+* Hora de comienzo: 00:00h
 
-* [Presentación común](https://github.com/Rlopber/Presentacion_Dual_Viewnext_RLB_1DAW/blob/main/VIEWNEXT%20-%20Presentacion%20Comun%20-%20Tarde.pdf)
+* [](enlace-al-repositorio-con-el-material)
 
 ##### 1º DAW
 
-* [López Bermúdez, Raquel](https://github.com/Rlopber/Presentacion_Dual_Viewnext_RLB_1DAW)
-* [Barrionuevo Rosado, Alejandro](https://github.com/Alejandro-BR/Presentacion-dual-1DAW)
+* [](enlace-al-repositorio-con-el-material)
 
 ##### 1º DAM
-* [Rico Navarro, Javier](https://github.com/Jricnav1811/PresentacionViewnext)
-* [Cabello Sánchez, Alba](https://github.com/albacabsan/PresentacionDUAL)
+
+* [](enlace-al-repositorio-con-el-material)
 
 <hr>
 
 <img height="26px" src="nttdata.png">
 
-* Hora de comienzo: 16:05h
+* Hora de comienzo: 00:00h
 
 ##### 1º DAW
 
-* [Ruiz Domínguez, Pablo](https://github.com/pablo-r-d/dual2024)
-* [Ruiz Cosano, Juan Ignacio](https://github.com/nachooruiiz/PresentacionDual)
-* [García Alcalá, Miguel](https://github.com/miguelga2004/PresentacionDual)
-* [Capote Molina, Enrique](https://github.com/Enriiquecm/Presentacion_dual)
+* [](enlace-al-repositorio-con-el-material)
 
 <hr>
 
 <img height="46px" src="romux.png">
 
-* Hora de comienzo: 16:35h
+* Hora de comienzo: 00:00h
 
 ##### 1ºDAW
 
-* [Sánchez Caparrós, Antonio Francisco](https://github.com/anthonysanchezz/Presentacion-Dual)
+* [](enlace-al-repositorio-con-el-material)
 
 <hr>
 
 <img height="32px" src="properly.png">
 
-* Hora de comienzo: 16:50h
+* Hora de comienzo: 00:00h
 
 ##### 1ºDAW
 
-* [Cabello Rueda, Francisco Javier](enlace-al-repositorio-con-el-material)
+* [](enlace-al-repositorio-con-el-material)
 
 <hr>
 
 <img height="32px" src="universoweb.png">
 
-* Hora de comienzo: 17:05h
+* Hora de comienzo: 00:00h
 
 ##### 1ºDAW
 
-* [Robles Ruiz, Elías](https://github.com/erobrui2812/presentacion-dual/)
+* [](enlace-al-repositorio-con-el-material)
 
 <hr>
 
 <img height="32px" src="hispasec2.png">
 
-* Hora de comienzo: 17:20h
+* Hora de comienzo: 00:00h
 
 ##### 1ºDAM
 
-* [Carmona Gálvez, Adrián](https://github.com/Adricarmona/PresentacionHispasec)
+* [](enlace-al-repositorio-con-el-material)
 
 <hr>
 
 <img height="28px" src="iuitlm.png">
 
-* Hora de comienzo: 17:35h
+* Hora de comienzo: 00:00h
 
 ##### 1ºDAM 
 
-* [Atencia Barranco, Paula](https://github.com/PaulaAtencia/Presentaci-n-Dual--Paula-1-DAM.git)
-* 
+* [](enlace-al-repositorio-con-el-material)
+  
 <hr>
 
 <img height="36px" src="ada.jpg">
 
-* Hora de comienzo: 17:50h
+* Hora de comienzo: 00:00h
 
 ##### 1º DAW
 
-* [Sánchez Lagos, Fernando](https://github.com/Fernandosanchez1609/presentaci-n-)
+* [](enlace-al-repositorio-con-el-material)
 
 <hr>
 
