@@ -1,7 +1,7 @@
 
-# Presentaciones duales de 1º DAW y 1º DAM del curso 2024 / 2025
+# Presentaciones duales de 1º DAW, 1º DAM y 1º ASIR del curso 2024 / 2025
 
-Horarios, índices a las carpetas y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **CPIFP Alan Turing** (Málaga - PTA) del curso 2024 - 2025.
+Horarios, índices a las carpetas y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma), **1º DAW** (Desarrollo de Aplicaciones Web) y  **1º ASIR** (Administración de Sistemas Informáticos) del **CPIFP Alan Turing** (Málaga - PTA) del curso 2024 - 2025.
 
 ## Índice
 
