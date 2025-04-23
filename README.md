@@ -103,9 +103,43 @@ Hora de comienzo: 11:45h
 
 ##### 1º DAW
 
-* [](enlace-al-repositorio-con-el-material)
+* [Mayger Giralde, Mateo Richard](enlace-al-repositorio-con-el-material)
+* [Sánchez Quintero, Rubén](enlace-al-repositorio-con-el-material)
 
 <hr>
+
+##### 1º DAM
+
+* [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
+* [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
+
+<img height="36px" src="ada.jpg">
+
+* Hora de comienzo: 12:50h
+
+##### 1º DAW
+
+* [Leiva García, Álvaro](enlace-al-repositorio-con-el-material)
+* [Barnestein Martos, Alejandro](enlace-al-repositorio-con-el-material)
+* [Avila Rosas, Miguel Ángel](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="42px" src="iuitlm.png">
+
+* Hora de comienzo: 13:00h
+
+##### 1º DAW
+
+* [Mayger Giralde, Mateo Richard](enlace-al-repositorio-con-el-material)
+* [Sánchez Quintero, Rubén](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+##### 1º DAM
+
+* [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
+* [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
 <img height="36px" src="ada.jpg">
 
