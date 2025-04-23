@@ -35,7 +35,7 @@ Hora de comienzo: 10:15h
 
 <hr>
 
-<img height="40px" src="aliqindoi.png">
+<img height="42px" src="aliqindoi.png">
 
 Hora de comienzo: 10:40h
 
