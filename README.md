@@ -1,3 +1,4 @@
+# 🚧 🚧 🚧 INFORMACIÓN PROVISIONAL 🏗️ 🏗️ 🏗️
 
 # Presentaciones duales de 1º DAW, 1º DAM y 1º ASIR del curso 2024 / 2025
 
@@ -81,6 +82,16 @@ Hora de comienzo: 11:45h
 ##### 1º DAW
 
 * [Ocaña Piña, Paloma](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="32px" src="properly.png">
+
+* Hora de comienzo: 12:45h
+
+##### 1ºDAW
+
+* [Villar Roldán, Luis](enlace-al-repositorio-con-el-material)
 
 <hr>
 
