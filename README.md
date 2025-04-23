@@ -19,7 +19,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="36px" src="accenture.svg">
 
-* Hora de comienzo: 10:15h
+Hora de comienzo: 10:15h
 
 ##### 1ºDAW
 
@@ -36,7 +36,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="40px" src="aliqindoi.png">
 
-* Hora de comienzo: 10:40h
+Hora de comienzo: 10:40h
 
 ##### 1ºDAM
 
@@ -46,7 +46,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="28px" src="viewnext.png">
 
-* Hora de comienzo: 10:55h
+Hora de comienzo: 10:55h
 
 ##### 1º DAW
 
