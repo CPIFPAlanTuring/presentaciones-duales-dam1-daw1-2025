@@ -113,9 +113,9 @@ Hora de comienzo: 11:45h
 * [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
-<img height="37px" src="sipadan.png">
-
 <hr>
+
+<img height="37px" src="sipadan.png">
 
 ### :calendar: Martes 27 de mayo de 2025 - Turno de mañana - 1º ASIR
 
