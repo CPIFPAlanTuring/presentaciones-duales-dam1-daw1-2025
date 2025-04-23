@@ -54,7 +54,9 @@ Hora de comienzo: 10:55h
 * [Cano Jiménez, Antonio Lorenzo](enlace-al-repositorio-con-el-material)
 
 <hr>
-11:15h - 11:45h - 🥪 D E S A Y U N O ☕  
+
+## 11:15h - 11:45h - 🥪 D E S A Y U N O ☕  
+
 <hr>
 
 <img height="28px" src="viewnext.png">
