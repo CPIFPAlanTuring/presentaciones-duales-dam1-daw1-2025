@@ -54,7 +54,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="40px" src="aliqindoi.png">
 
-* Hora de comienzo: 13:15h
+* Hora de comienzo: 11:25h
 
 ##### 1ºDAM
 
