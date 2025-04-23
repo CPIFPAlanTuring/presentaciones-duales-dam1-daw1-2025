@@ -113,7 +113,7 @@ Hora de comienzo: 11:45h
 * [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
-<img height="38px" src="sipadan.png">
+<img height="36px" src="sipadan.png">
 
 * Hora de comienzo: 13:30h
 
@@ -125,49 +125,20 @@ Hora de comienzo: 11:45h
 
 * [Salces Alcaraz, Antonio](enlace-al-repositorio-con-el-material)
 
-<hr>
-
-<img height="42px" src="iuitlm.png">
-
-* Hora de comienzo: 13:00h
-
-##### 1º DAW
-
-* [Mayger Giralde, Mateo Richard](enlace-al-repositorio-con-el-material)
-* [Sánchez Quintero, Rubén](enlace-al-repositorio-con-el-material)
-
-<hr>
-
-##### 1º DAM
-
-* [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
-* [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
-
-<img height="36px" src="ada.jpg">
-
-* Hora de comienzo: 12:50h
-
-##### 1º DAW
-
-* [Leiva García, Álvaro](enlace-al-repositorio-con-el-material)
-* [Barnestein Martos, Alejandro](enlace-al-repositorio-con-el-material)
-* [Avila Rosas, Miguel Ángel](enlace-al-repositorio-con-el-material)
-
-<hr>
 
 ### :calendar: Lunes 27 de mayo de 2024 - Turno de tarde
 
 <img height="36px" src="accenture.svg">
 
-* Hora de comienzo: 15:15h
+* Hora de comienzo: 00:00h
 
 ##### 1ºDAW
 
-* [Molina Meléndez, José](https://github.com/Jmolmel/PresentacionDual_JoseMolina)
+* [](enlace-al-repositorio-con-el-material)
 
 ##### 1ºDAM
 
-* [Domínguez García, Héctor](https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture)
+* [](enlace-al-repositorio-con-el-material)
 
 <hr>
 
@@ -198,7 +169,6 @@ Hora de comienzo: 11:45h
 * [Ruiz Cosano, Juan Ignacio](https://github.com/nachooruiiz/PresentacionDual)
 * [García Alcalá, Miguel](https://github.com/miguelga2004/PresentacionDual)
 * [Capote Molina, Enrique](https://github.com/Enriiquecm/Presentacion_dual)
-
 
 <hr>
 
