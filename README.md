@@ -44,9 +44,21 @@ Hora de comienzo: 10:40h
 
 <hr>
 
-<img height="28px" src="viewnext.png">
+<img height="44px" src="pwc.png">
 
 Hora de comienzo: 10:55h
+
+##### 1º DAM
+
+* [Cano Jiménez, Antonio Lorenzo](enlace-al-repositorio-con-el-material)
+
+<hr>
+11:15h - 11:45h - 🥪 D E S A Y U N O ☕  
+<hr>
+
+<img height="28px" src="viewnext.png">
+
+Hora de comienzo: 11:45h
 
 ##### 1º DAW
 
@@ -62,19 +74,13 @@ Hora de comienzo: 10:55h
 
 <hr>
 
-<img height="44px" src="pwc.png">
+<img height="26px" src="nttdata.png">
 
-* Hora de comienzo: 13:30h
+* Hora de comienzo: 12:30h
 
-##### 1º DAM
+##### 1º DAW
 
-* [Cano Jiménez, Antonio Lorenzo](enlace-al-repositorio-con-el-material)
-
-* 11:15h - 11:45h - 🥪 D E S A Y U N O ☕
-
-
-
-* [Gallego Ríos, Boris](https://github.com/Boris027/presentacion-dual)
+* [Ocaña Piña, Paloma](enlace-al-repositorio-con-el-material)
 
 <hr>
 
