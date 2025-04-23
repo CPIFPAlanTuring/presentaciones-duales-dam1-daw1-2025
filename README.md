@@ -16,7 +16,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación (formato elegido y pdf), además de cualquier otra información que considere relevante.
 
-### :calendar: Martes 27 de mayo de 2025 - Turno de mañana
+### :calendar: Martes 27 de mayo de 2025 - Turno de mañana - 1º DAM y 1º DAW
 
 <img height="36px" src="accenture.svg">
 
@@ -115,6 +115,29 @@ Hora de comienzo: 11:45h
 
 <img height="37px" src="sipadan.png">
 
+<hr>
+
+### :calendar: Martes 27 de mayo de 2025 - Turno de mañana - 1º ASIR
+
+<img height="36px" src="accenture.svg">
+
+Hora de comienzo: 00:00h
+
+* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="42px" src="iuitlm.png">
+
+Hora de comienzo: 00:00h
+
+* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
 
 ### :calendar: Lunes 27 de mayo de 2024 - Turno de tarde
 
