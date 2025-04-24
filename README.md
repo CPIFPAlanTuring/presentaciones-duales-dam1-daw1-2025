@@ -200,13 +200,29 @@ Hora de comienzo: 9:15h
 
 <hr>
 
-<img height="36px" src="silice.png">
+<img height="34px" src="silice.png">
 
-Hora de comienzo: 9:15h
+Hora de comienzo: 9:35h
 
 ##### 1ºDAW
 
 * [Bellón Payer, David](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+##### 1ºDAM
+
+* [Vargas Berrocal, Ezequiel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="34px" src="triplemelon.png">
+
+Hora de comienzo: 9:55h
+
+##### 1ºDAW
+
+* [Bernal González, Martín](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
