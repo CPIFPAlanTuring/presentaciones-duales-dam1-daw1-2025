@@ -18,7 +18,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ### :calendar: Martes 27 de mayo de 2025 - Turno de mañana - 1º DAM y 1º DAW
 
-<img height="36px" src="accenture.svg">
+<img height="36px" src="img/accenture.svg">
 
 Hora de comienzo: 10:15h
 
@@ -35,7 +35,7 @@ Hora de comienzo: 10:15h
 
 <hr>
 
-<img height="42px" src="aliqindoi.png">
+<img height="42px" src="img/aliqindoi.png">
 
 Hora de comienzo: 10:40h
 
@@ -45,7 +45,7 @@ Hora de comienzo: 10:40h
 
 <hr>
 
-<img height="44px" src="pwc.png">
+<img height="44px" src="img/pwc.png">
 
 Hora de comienzo: 10:55h
 
@@ -59,7 +59,7 @@ Hora de comienzo: 10:55h
 
 <hr>
 
-<img height="28px" src="viewnext.png">
+<img height="28px" src="img/viewnext.png">
 
 Hora de comienzo: 11:45h
 
@@ -77,7 +77,7 @@ Hora de comienzo: 11:45h
 
 <hr>
 
-<img height="26px" src="nttdata.png">
+<img height="26px" src="img/nttdata.png">
 
 * Hora de comienzo: 12:30h
 
@@ -87,7 +87,7 @@ Hora de comienzo: 11:45h
 
 <hr>
 
-<img height="32px" src="properly.png">
+<img height="32px" src="img/properly.png">
 
 * Hora de comienzo: 12:45h
 
@@ -97,7 +97,7 @@ Hora de comienzo: 11:45h
 
 <hr>
 
-<img height="42px" src="iuitlm.png">
+<img height="42px" src="img/iuitlm.png">
 
 * Hora de comienzo: 13:00h
 
@@ -115,7 +115,7 @@ Hora de comienzo: 11:45h
 
 ### :calendar: Martes 27 de mayo de 2025 - Turno de mañana - 1º ASIR
 
-<img height="36px" src="accenture.svg">
+<img height="36px" src="img/accenture.svg">
 
 Hora de comienzo: 00:00h
 
@@ -125,7 +125,7 @@ Hora de comienzo: 00:00h
 
 <hr>
 
-<img height="42px" src="iuitlm.png">
+<img height="42px" src="img/iuitlm.png">
 
 Hora de comienzo: 00:00h
 
@@ -137,7 +137,7 @@ Hora de comienzo: 00:00h
 
 ### :calendar: Martes 27 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
-<img height="36px" src="accenture.svg">
+<img height="36px" src="img/accenture.svg">
 
 * Hora de comienzo: 00:00h
 
@@ -151,7 +151,7 @@ Hora de comienzo: 00:00h
 
 <hr>
 
-<img height="28px" src="viewnext.png">
+<img height="28px" src="img/viewnext.png">
 
 * Hora de comienzo: 00:00h
 
@@ -168,7 +168,7 @@ Hora de comienzo: 00:00h
 
 ### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
-<img height="36px" src="sipadan.png">
+<img height="36px" src="img/sipadan.png">
 
 Hora de comienzo: 9:15h
 
@@ -184,7 +184,7 @@ Hora de comienzo: 9:15h
 
 <hr>
 
-<img height="32px" src="silice.png">
+<img height="32px" src="img/silice.png">
 
 Hora de comienzo: 9:35h
 
@@ -200,7 +200,7 @@ Hora de comienzo: 9:35h
 
 <hr>
 
-<img height="38px" src="triplemelon.png">
+<img height="38px" src="img/triplemelon.png">
 
 Hora de comienzo: 9:55h
 
@@ -210,7 +210,7 @@ Hora de comienzo: 9:55h
 
 <hr>
 
-<img height="38px" src="natursis.png">
+<img height="38px" src="img/natursis.png">
 
 Hora de comienzo: 10:10h
 
@@ -220,7 +220,7 @@ Hora de comienzo: 10:10h
 
 <hr>
 
-<img height="38px" src="generalelevadores.png">
+<img height="38px" src="img/generalelevadores.png">
 
 Hora de comienzo: 10:25h
 
@@ -230,7 +230,7 @@ Hora de comienzo: 10:25h
 
 <hr>
 
-<img height="40px" src="genabyte.png">
+<img height="40px" src="img/genabyte.png">
 
 Hora de comienzo: 10:40h
 
@@ -240,7 +240,7 @@ Hora de comienzo: 10:40h
 
 <hr>
 
-<img height="34px" src="panaderiasalvador.png">
+<img height="34px" src="img/panaderiasalvador.png">
 
 Hora de comienzo: 10:55h
 
@@ -258,7 +258,7 @@ Hora de comienzo: 10:55h
 
 <hr>
 
-<img height="36px" src="iescampanillas.jpg">
+<img height="36px" src="img/iescampanillas.jpg">
 
 Hora de comienzo: 11:45h
 
@@ -268,7 +268,7 @@ Hora de comienzo: 11:45h
 
 <hr>
 
-<img height="36px" src="contalento.png">
+<img height="36px" src="img/contalento.png">
 
 Hora de comienzo: 12:00h
 
@@ -278,7 +278,7 @@ Hora de comienzo: 12:00h
 
 <hr>
 
-<img height="34px" src="uma.png">
+<img height="34px" src="img/uma.png">
 
 Hora de comienzo: 12:15h
 
@@ -289,7 +289,7 @@ Hora de comienzo: 12:15h
 
 <hr>
 
-<img height="34px" src="angelscaring.png">
+<img height="34px" src="img/angelscaring.png">
 
 Hora de comienzo: 12:35h
 
