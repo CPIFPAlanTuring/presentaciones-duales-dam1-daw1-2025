@@ -302,7 +302,16 @@ Hora de comienzo: 12:35h
 
 ## :stopwatch: Tiempo para la presentación
 
-Los alumnos de la misma empresa deberán de realizar una presentación común de la misma cuya duración será de 5 minutos como máximo. A continuación, cada alumno realizará una presentación individualizada de su trabajo de 5 minutos, dejando otros 5 minutos para un turno de preguntas común.
+Para cada turno (mañana y tarde), los alumnos de la misma empresa deberán de realizar una presentación común de ella cuya duración será de 5 minutos como máximo. Si se trata de un único alumno/a en la empresa, deberá igualmente realizar la presentación de la misma. A continuación, cada alumno realizará una presentación individualizada de su trabajo de 5 minutos, dejando otros 5 minutos para un turno de preguntas común.
+
+El documento de presentación de cada empresa puede ser común para todos los alumnos que hayan realiazado la formación dual en ella, independientemente del turno (mañana o tarde) y del cilo formativo.
+
+Ejemplo de temporización para el grupo de Elsa Pato de 1º DAW y Víctor Tazo de 1º DAM la empresa Turing Tech:
+
+* 5 minutos para la presentación común de la empresa Turing Tech
+* 5 minutos para la presentación individual de Elsa Pato 
+* 5 minutos para la presentación individual de Víctor Tazo
+* 5 minutos para el turno de preguntas
 
 ## :open_file_folder: Contenido de la presentación
 
@@ -324,7 +333,7 @@ Cualquier material utilizado en la presentación debe estar disponible desde el 
 
 ## :school: Lugar de la presentación
 
-Las presentaciones SON PRESENCIALES y tendrán lugar en el **Aula Ateca** sita en C/ Frederick Terman,3. 29590, PTA.
+Las presentaciones **SON PRESENCIALES** y tendrán lugar en el **Salón de actos del CPIFP Alan Turing** sita en C/ Frederick Terman,3. 29590, PTA.
 
 <hr>
 
