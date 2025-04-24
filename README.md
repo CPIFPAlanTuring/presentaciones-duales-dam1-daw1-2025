@@ -41,7 +41,7 @@ Hora de comienzo: 10:40h
 
 ##### 1ºDAM
 
-* [Butrii,Segii](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Butrii,Sergii](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
@@ -113,10 +113,6 @@ Hora de comienzo: 11:45h
 * [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
-<hr>
-
-<img height="37px" src="sipadan.png">
-
 ### :calendar: Martes 27 de mayo de 2025 - Turno de mañana - 1º ASIR
 
 <img height="36px" src="accenture.svg">
@@ -139,7 +135,7 @@ Hora de comienzo: 00:00h
 
 <hr>
 
-### :calendar: Lunes 27 de mayo de 2024 - Turno de tarde
+### :calendar: Martes 27 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
 <img height="36px" src="accenture.svg">
 
@@ -169,75 +165,54 @@ Hora de comienzo: 00:00h
 
 * [](enlace-al-repositorio-con-el-material)
 
-<hr>
 
-<img height="26px" src="nttdata.png">
+### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
-* Hora de comienzo: 00:00h
+<img height="36px" src="sipadan.png">
 
-##### 1º DAW
-
-* [](enlace-al-repositorio-con-el-material)
-
-<hr>
-
-<img height="46px" src="romux.png">
-
-* Hora de comienzo: 00:00h
+Hora de comienzo: 9:15h
 
 ##### 1ºDAW
 
-* [](enlace-al-repositorio-con-el-material)
+* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
-
-<img height="32px" src="properly.png">
-
-* Hora de comienzo: 00:00h
-
-##### 1ºDAW
-
-* [](enlace-al-repositorio-con-el-material)
-
-<hr>
-
-<img height="32px" src="universoweb.png">
-
-* Hora de comienzo: 00:00h
-
-##### 1ºDAW
-
-* [](enlace-al-repositorio-con-el-material)
-
-<hr>
-
-<img height="32px" src="hispasec2.png">
-
-* Hora de comienzo: 00:00h
 
 ##### 1ºDAM
 
-* [](enlace-al-repositorio-con-el-material)
+* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
-<img height="28px" src="iuitlm.png">
+<img height="36px" src="sipadan.png">
 
-* Hora de comienzo: 00:00h
+Hora de comienzo: 9:15h
 
-##### 1ºDAM 
+##### 1ºDAW
 
-* [](enlace-al-repositorio-con-el-material)
-  
+* [Navajas García, Gonzalo](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
 <hr>
 
-<img height="36px" src="ada.jpg">
+##### 1ºDAM
 
-* Hora de comienzo: 00:00h
+* [Salces Alcaraz, Antonio](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
-##### 1º DAW
+<hr>
 
-* [](enlace-al-repositorio-con-el-material)
+<img height="36px" src="silice.png">
+
+Hora de comienzo: 9:15h
+
+##### 1ºDAW
+
+* [Bellón Payer, David](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+##### 1ºDAM
+
+* [Vargas Berrocal, Ezequiel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
