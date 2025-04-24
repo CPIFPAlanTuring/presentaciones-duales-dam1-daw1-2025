@@ -226,12 +226,25 @@ Hora de comienzo: 9:55h
 
 <hr>
 
-##### 1ºDAM
+<img height="34px" src="natursis.png">
 
-* [Vargas Berrocal, Ezequiel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+Hora de comienzo: 9:55h
+
+##### 1ºDAW
+
+* [Espinosa Ramos, Dana](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
+<img height="34px" src="generalelevadores.png">
+
+Hora de comienzo: 9:55h
+
+##### 1ºDAW
+
+* [Fernández-Lomana Herrera, Pablo](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
 
 ## :stopwatch: Tiempo para la presentación
 
