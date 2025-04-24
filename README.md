@@ -278,7 +278,7 @@ Hora de comienzo: 12:00h
 
 <hr>
 
-<img height="34px" src="img/uma.png">
+<img height="34px" src="img/uma.jpeg">
 
 Hora de comienzo: 12:15h
 
