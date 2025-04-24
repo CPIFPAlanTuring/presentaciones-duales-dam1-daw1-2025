@@ -184,7 +184,7 @@ Hora de comienzo: 9:15h
 
 <hr>
 
-<img height="34px" src="silice.png">
+<img height="32px" src="silice.png">
 
 Hora de comienzo: 9:35h
 
@@ -200,7 +200,7 @@ Hora de comienzo: 9:35h
 
 <hr>
 
-<img height="34px" src="triplemelon.png">
+<img height="38px" src="triplemelon.png">
 
 Hora de comienzo: 9:55h
 
@@ -210,7 +210,7 @@ Hora de comienzo: 9:55h
 
 <hr>
 
-<img height="34px" src="natursis.png">
+<img height="38px" src="natursis.png">
 
 Hora de comienzo: 10:10h
 
@@ -220,7 +220,7 @@ Hora de comienzo: 10:10h
 
 <hr>
 
-<img height="34px" src="generalelevadores.png">
+<img height="38px" src="generalelevadores.png">
 
 Hora de comienzo: 10:25h
 
@@ -230,7 +230,7 @@ Hora de comienzo: 10:25h
 
 <hr>
 
-<img height="34px" src="genabyte.png">
+<img height="40px" src="genabyte.png">
 
 Hora de comienzo: 10:40h
 
@@ -258,7 +258,7 @@ Hora de comienzo: 10:55h
 
 <hr>
 
-<img height="34px" src="iescampanillas.jpg">
+<img height="36px" src="iescampanillas.jpg">
 
 Hora de comienzo: 11:45h
 
@@ -268,7 +268,7 @@ Hora de comienzo: 11:45h
 
 <hr>
 
-<img height="34px" src="contalento.png">
+<img height="36px" src="contalento.png">
 
 Hora de comienzo: 12:00h
 
