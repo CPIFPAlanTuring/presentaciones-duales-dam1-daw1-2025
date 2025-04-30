@@ -197,6 +197,47 @@ Hora de comienzo: 00:00h
 
 * [Francisco de Asís Cobo Sánchez](enlace-al-repositorio-con-el-material)
 
+<hr>
+
+<img height="28px" src="img/peluquerialorena.png">
+
+* Hora de comienzo: 17:00h
+
+##### 1º DAM
+
+* [Daniel Palma López](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/properly.png">
+
+* Hora de comienzo: 17:15h
+
+##### 1º DAM
+
+* [Adrián Romero Maldonado](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/windup.svg">
+
+* Hora de comienzo: 17:30h
+
+##### 1º DAW
+
+* [Iván Calatayud Merino](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/politikea.png">
+
+* Hora de comienzo: 17:45h
+
+##### 1º DAW
+
+* [Jaime Gavilán Torrero](enlace-al-repositorio-con-el-material)
+
+
 
 ### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
