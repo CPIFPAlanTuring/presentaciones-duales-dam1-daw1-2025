@@ -141,10 +141,6 @@ Hora de comienzo: 00:00h
 
 * Hora de comienzo: 15:15h
 
-##### 1ºDAM
-
-* [Ángela Mora Mata](enlace-al-repositorio-con-el-material)
-
 ##### 1ºDAW
 
 * [María Ledesma Zotano](enlace-al-repositorio-con-el-material)
@@ -153,23 +149,32 @@ Hora de comienzo: 00:00h
 
 ##### 1ºDAM
 
-* [](enlace-al-repositorio-con-el-material)
+* [Ángela Mora Mata](enlace-al-repositorio-con-el-material)
 
 <hr>
 
 <img height="28px" src="img/viewnext.png">
 
-* Hora de comienzo: 00:00h
-
-* [](enlace-al-repositorio-con-el-material)
+* Hora de comienzo: 15:45h
 
 ##### 1º DAW
 
-* [](enlace-al-repositorio-con-el-material)
+* [Cristina Fernández Fernández](enlace-al-repositorio-con-el-material)
 
 ##### 1º DAM
 
-* [](enlace-al-repositorio-con-el-material)
+* [Miguel Macías del Pino](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/angelscaring.png">
+
+* Hora de comienzo: 16:05h
+
+##### 1º DAM
+
+* [Hugo De Cristóbal Gómez](enlace-al-repositorio-con-el-material)
+* [Daniel Gonzánlez Molina](enlace-al-repositorio-con-el-material)
 
 
 ### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
