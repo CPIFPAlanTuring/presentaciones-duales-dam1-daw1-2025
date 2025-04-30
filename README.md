@@ -135,15 +135,21 @@ Hora de comienzo: 00:00h
 
 <hr>
 
-### :calendar: Martes 27 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
+### :calendar: Lunes 26 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
-<img height="36px" src="img/accenture.svg">
+<img height="36px" src="img/nttdata.png">
 
-* Hora de comienzo: 00:00h
+* Hora de comienzo: 15:15h
+
+##### 1ºDAM
+
+* [Ángela Mora Mata](enlace-al-repositorio-con-el-material)
 
 ##### 1ºDAW
 
-* [](enlace-al-repositorio-con-el-material)
+* [María Ledesma Zotano](enlace-al-repositorio-con-el-material)
+* [Ainhoa Quintero González](enlace-al-repositorio-con-el-material)
+* [Adriana Salazar Daza](enlace-al-repositorio-con-el-material)
 
 ##### 1ºDAM
 
