@@ -247,6 +247,36 @@ Hora de comienzo: 00:00h
 
 * [José Antonio Lorente Moya](enlace-al-repositorio-con-el-material)
 
+<hr>
+
+<img height="28px" src="img/juntaandalucia.png">
+
+* Hora de comienzo: 18:45h
+
+##### 1º DAW
+
+* [Iván Ríos Raya](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/biceuronova.png">
+
+* Hora de comienzo: 19:00h
+
+##### 1º DAW
+
+* [Alexánder Sánchez Jara](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/asociacionmontessorimalaga.png">
+
+* Hora de comienzo: 19:15h
+
+##### 1º DAW
+
+* [Francisco Manuel Toledo Pérez](enlace-al-repositorio-con-el-material)
+
 
 
 ### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
