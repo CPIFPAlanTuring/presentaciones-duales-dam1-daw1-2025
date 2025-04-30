@@ -237,6 +237,16 @@ Hora de comienzo: 00:00h
 
 * [Jaime Gavilán Torrero](enlace-al-repositorio-con-el-material)
 
+<hr>
+
+<img height="28px" src="img/englishconnection.svg">
+
+* Hora de comienzo: 18:00h
+
+##### 1º DAW
+
+* [José Antonio Lorente Moya](enlace-al-repositorio-con-el-material)
+
 
 
 ### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
