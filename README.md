@@ -277,6 +277,25 @@ Hora de comienzo: 00:00h
 
 * [Francisco Manuel Toledo Pérez](enlace-al-repositorio-con-el-material)
 
+<hr>
+
+<img height="28px" src="img/margaritoestudios.png">
+
+* Hora de comienzo: 19:30h
+
+##### 1º DAW
+
+* [José María Caracuel Menacho](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/ceipmariadelao.png">
+
+* Hora de comienzo: 19:45h
+
+##### 1º DAW
+
+* [José Cortés Martín](enlace-al-repositorio-con-el-material)
 
 
 ### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
