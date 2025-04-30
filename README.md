@@ -176,6 +176,27 @@ Hora de comienzo: 00:00h
 * [Hugo De Cristóbal Gómez](enlace-al-repositorio-con-el-material)
 * [Daniel Gonzánlez Molina](enlace-al-repositorio-con-el-material)
 
+<hr>
+
+<img height="28px" src="img/chozadelpan.png">
+
+* Hora de comienzo: 16:25h
+
+##### 1º DAM
+
+* [José Antonio Fernández Guerrero](enlace-al-repositorio-con-el-material)
+* [Marcos Molis Zapata](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/triplemelon.png">
+
+* Hora de comienzo: 16:45h
+
+##### 1º DAM
+
+* [Francisco de Asís Cobo Sánchez](enlace-al-repositorio-con-el-material)
+
 
 ### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
