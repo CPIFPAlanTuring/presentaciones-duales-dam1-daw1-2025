@@ -297,6 +297,27 @@ Hora de comienzo: 00:00h
 
 * [José Cortés Martín](enlace-al-repositorio-con-el-material)
 
+<hr>
+
+<img height="28px" src="img/ceipmiguelhernandez.png">
+
+* Hora de comienzo: 20:00h
+
+##### 1º DAM
+
+* [Salvador Bueno González](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="28px" src="img/chialopezbeauty.png">
+
+* Hora de comienzo: 20:15h
+
+##### 1º DAW
+
+* [Jesús Ríos López](enlace-al-repositorio-con-el-material)
+
+
 
 ### :calendar: Miércoles 28 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
