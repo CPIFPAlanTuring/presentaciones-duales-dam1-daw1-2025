@@ -119,9 +119,7 @@ Hora de comienzo: 11:45h
 
 Hora de comienzo: 12:00h
 
-* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Carlos Manzanares Muñoz](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
