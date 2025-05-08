@@ -113,6 +113,8 @@ Hora de comienzo: 11:45h
 * [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
+<hr>
+
 ### :calendar: Lunes 26 de mayo de 2025 - Turno de mañana - 1º ASIR
 
 <img height="45px" src="img/clinicapc.png">
