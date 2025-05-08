@@ -113,11 +113,11 @@ Hora de comienzo: 11:45h
 * [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
-### :calendar: Martes 27 de mayo de 2025 - Turno de mañana - 1º ASIR
+### :calendar: Lunes 26 de mayo de 2025 - Turno de mañana - 1º ASIR
 
 <img height="36px" src="img/accenture.svg">
 
-Hora de comienzo: 00:00h
+Hora de comienzo: 12:00h
 
 * [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 * [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
