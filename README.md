@@ -127,9 +127,8 @@ Hora de comienzo: 12:00h
 
 Hora de comienzo: 12:15h
 
-* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-* [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Beatriz Castilla Cantero](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Alejandro Cano Gil](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
