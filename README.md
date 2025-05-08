@@ -115,7 +115,7 @@ Hora de comienzo: 11:45h
 
 ### :calendar: Lunes 26 de mayo de 2025 - Turno de mañana - 1º ASIR
 
-<img height="36px" src="img/dedalus.jpg">
+<img height="95px" src="img/dedalus.JPG">
 
 Hora de comienzo: 12:00h
 
