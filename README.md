@@ -115,7 +115,7 @@ Hora de comienzo: 11:45h
 
 ### :calendar: Lunes 26 de mayo de 2025 - Turno de mañana - 1º ASIR
 
-<img height="45px" src="img/dedalus.JPG">
+<img height="45px" src="img/clinicapc.jpg">
 
 Hora de comienzo: 12:00h
 
@@ -125,9 +125,9 @@ Hora de comienzo: 12:00h
 
 <hr>
 
-<img height="42px" src="img/iuitlm.png">
+<img height="45px" src="img/dedalus.JPG">
 
-Hora de comienzo: 00:00h
+Hora de comienzo: 12:15h
 
 * [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 * [](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
