@@ -35,7 +35,7 @@ Hora de comienzo: 12:15h
 
 <hr>
 
-<img height="45px" src="img/ceip_cha.jpg">
+<img height="45px" src="img/ceip_hca.jpg">
 
 Hora de comienzo: 12:35h
 
