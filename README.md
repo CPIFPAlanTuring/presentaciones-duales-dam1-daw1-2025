@@ -68,6 +68,14 @@ Hora de comienzo: 13:20h
 
 <hr>
 
+<img height="50px" src="img/iterita.jpg">
+
+Hora de comienzo: 13:40h
+
+* [Leo Calahorra Ruiz](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
 ### :calendar: Lunes 26 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
 <img height="36px" src="img/nttdata.png">
