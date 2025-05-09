@@ -35,11 +35,11 @@ Hora de comienzo: 12:15h
 
 <hr>
 
-<img height="45px" src="img/pss.jpg">
+<img height="45px" src="img/ceip_cha.jpg">
 
 Hora de comienzo: 12:35h
 
-* [Alejandro González Cáceres](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Raúl Ramírez Jiménez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
