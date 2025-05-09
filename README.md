@@ -318,6 +318,105 @@ Hora de comienzo: 12:15h
 
 <hr>
 
+### :calendar: Martes 27 de mayo de 2025 - Turno de mañana - 1º DAM y 1º DAW
+
+<img height="36px" src="img/accenture.svg">
+
+Hora de comienzo: 10:15h
+
+##### 1ºDAW
+
+* [López Calderón, Ignacio](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+##### 1ºDAM
+
+* [González Ortiz, María del Rosario](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Faura Matín, Lucas](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="42px" src="img/aliqindoi.png">
+
+Hora de comienzo: 10:40h
+
+##### 1ºDAM
+
+* [Butrii,Sergii](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="44px" src="img/pwc.png">
+
+Hora de comienzo: 10:55h
+
+##### 1º DAM
+
+* [Cano Jiménez, Antonio Lorenzo](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+#### 11:15h - 11:45h - 🥪 D E S A Y U N O ☕  
+
+<hr>
+
+<img height="28px" src="img/viewnext.png">
+
+Hora de comienzo: 11:45h
+
+##### 1º DAW
+
+* [García Maldonado, Carlos Hugo](enlace-al-repositorio-con-el-material)
+* [Jimenez Gonzalez, Juan](enlace-al-repositorio-con-el-material)
+* [Hernandez Montoya, Laura](enlace-al-repositorio-con-el-material)
+* [Villena, Lucia](enlace-al-repositorio-con-el-material)
+* [Diaz Plaza, Miriam](enlace-al-repositorio-con-el-material)
+
+##### 1º DAM
+* [Jiménez Muñoz, Álvaro](enlace-al-repositorio-con-el-material)
+* [Domínguez González, José Antonio](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="26px" src="img/nttdata.png">
+
+* Hora de comienzo: 12:30h
+
+##### 1º DAW
+
+* [Ocaña Piña, Paloma](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="32px" src="img/properly.png">
+
+* Hora de comienzo: 12:45h
+
+##### 1ºDAW
+
+* [Villar Roldán, Luis](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+<img height="42px" src="img/iuitlm.png">
+
+* Hora de comienzo: 13:00h
+
+##### 1º DAW
+
+* [Mayger Giralde, Mateo Richard](enlace-al-repositorio-con-el-material)
+* [Sánchez Quintero, Rubén](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+##### 1º DAM
+
+* [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
+* [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
+
+<hr>
+
 ## :stopwatch: Tiempo para la presentación
 
 Para cada turno (mañana y tarde), los alumnos de la misma empresa deberán de realizar una presentación común de ella cuya duración será de 5 minutos como máximo. Si se trata de un único alumno/a en la empresa, deberá igualmente realizar la presentación de la misma. A continuación, cada alumno realizará una presentación individualizada de su trabajo de 5 minutos, dejando otros 5 minutos para un turno de preguntas común.
