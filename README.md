@@ -35,6 +35,14 @@ Hora de comienzo: 12:15h
 
 <hr>
 
+<img height="45px" src="img/pss.JPG">
+
+Hora de comienzo: 12:35h
+
+* [Alejandro González Cáceres](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
 ### :calendar: Lunes 26 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
 <img height="36px" src="img/nttdata.png">
