@@ -43,7 +43,7 @@ Hora de comienzo: 12:35h
 
 <hr>
 
-<img height="50px" src="img/navarro_hermanos.jpg">
+<img height="80px" src="img/navarro_hermanos.jpg">
 
 Hora de comienzo: 12:50h
 
