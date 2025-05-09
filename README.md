@@ -35,7 +35,7 @@ Hora de comienzo: 12:15h
 
 <hr>
 
-<img height="45px" src="img/pss.JPG">
+<img height="45px" src="img/pss.jpg">
 
 Hora de comienzo: 12:35h
 
