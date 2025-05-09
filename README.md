@@ -53,7 +53,7 @@ Hora de comienzo: 12:50h
 
 <img height="50px" src="img/infosernet.jpg">
 
-Hora de comienzo: 12:50h
+Hora de comienzo: 13:05h
 
 * [Ignacio Domínguez Díaz](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
@@ -61,7 +61,7 @@ Hora de comienzo: 12:50h
 
 <img height="50px" src="img/solbyte.jpg">
 
-Hora de comienzo: 13:05h
+Hora de comienzo: 13:20h
 
 * [Francisco Gómez Palomo](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 * [José Vertedor Rodríguez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
