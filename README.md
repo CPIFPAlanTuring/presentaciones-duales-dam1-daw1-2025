@@ -59,7 +59,7 @@ Hora de comienzo: 12:50h
 
 <hr>
 
-<img height="50px" src="img/solbyte.png">
+<img height="50px" src="img/solbyte.jpg">
 
 Hora de comienzo: 13:05h
 
