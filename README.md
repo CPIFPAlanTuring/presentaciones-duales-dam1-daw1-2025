@@ -43,6 +43,14 @@ Hora de comienzo: 12:35h
 
 <hr>
 
+<img height="50px" src="img/navarro_hermanos.jpg">
+
+Hora de comienzo: 12:50h
+
+* [Noé Medina González](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
 ### :calendar: Lunes 26 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
 <img height="36px" src="img/nttdata.png">
