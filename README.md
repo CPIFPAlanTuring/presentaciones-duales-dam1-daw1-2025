@@ -18,7 +18,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ### :calendar: Lunes 26 de mayo de 2025 - Turno de mañana - 1º ASIR
 
-<img height="45px" src="img/clinicapc.png">
+<img height="50px" src="img/clinicapc.png">
 
 Hora de comienzo: 12:00h
 
@@ -26,7 +26,7 @@ Hora de comienzo: 12:00h
 
 <hr>
 
-<img height="45px" src="img/dedalus.JPG">
+<img height="50px" src="img/dedalus.JPG">
 
 Hora de comienzo: 12:15h
 
@@ -35,7 +35,7 @@ Hora de comienzo: 12:15h
 
 <hr>
 
-<img height="45px" src="img/ceip_hca.jpg">
+<img height="50px" src="img/ceip_hca.jpg">
 
 Hora de comienzo: 12:35h
 
