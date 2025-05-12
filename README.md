@@ -68,11 +68,20 @@ Hora de comienzo: 13:20h
 
 <hr>
 
-<img height="50px" src="img/iterita.jpg">
+<img height="50px" src="img/uma.jpg">
 
 Hora de comienzo: 13:40h
 
 * [Leo Calahorra Ruiz](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="50px" src="img/iterita.jpg">
+
+Hora de comienzo: 13:50h
+
+* [Samuel Márquez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Guillermo Diañez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
 
