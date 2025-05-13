@@ -76,15 +76,6 @@ Hora de comienzo: 13:40h
 
 <hr>
 
-<img height="50px" src="img/iterita.jpg">
-
-Hora de comienzo: 13:50h
-
-* [Samuel Márquez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-* [Guillermo Diañez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-
-<hr>
-
 ### :calendar: Lunes 26 de mayo de 2025 - Turno de tarde - 1º DAM y 1º DAW
 
 <img height="36px" src="img/nttdata.png">
@@ -367,6 +358,16 @@ Hora de comienzo: 11:45h
 * [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
 
 <hr>
+
+<img height="50px" src="img/uma.jpg">
+
+Hora de comienzo: 13:50h
+
+* [Samuel Márquez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Guillermo Diañez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
 
 ## :stopwatch: Tiempo para la presentación
 
