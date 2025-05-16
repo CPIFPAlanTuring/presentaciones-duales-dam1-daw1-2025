@@ -68,7 +68,7 @@ Hora de comienzo: 13:20h
 
 <hr>
 
-<img height="50px" src="img/uma.jpg">
+<img height="50px" src="img/iterita.jpg">
 
 Hora de comienzo: 13:40h
 
