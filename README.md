@@ -186,7 +186,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [José Antonio Lorente Moya](enlace-al-repositorio-con-el-material)
+* [José Antonio Lorente Moya](https://github.com/Jose-Lorente/ProyectoDUAL1-DAW)
 
 <hr>
 
