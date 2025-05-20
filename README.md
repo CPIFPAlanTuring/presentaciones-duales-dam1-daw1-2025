@@ -6,7 +6,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 
 ## Índice
 
-* [Cuadrante horario de las presentaciones con índices a las carpetas](#cuadrante-horario-de-las-presentaciones-con-índices-a-los-repositorios)
+* [Horario de las presentaciones con índices a las carpetas](#horario-de-las-presentaciones-con-índices-a-los-repositorios)
   * [1ASIR](#1asir)
   * [1DAW, 1DAM mañana](#1daw-1dam-turno-de-mañana)
   * [1DAW, 1DAM tarde](#1daw-1dam-turno-de-tarde)
@@ -21,7 +21,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 Cada alumno debe enlazar con el repositorio donde tiene su presentación (formato elegido y pdf), además de cualquier otra información que considere relevante.
 
 ### 1ASIR
-### Lunes 26 de mayo de 2025 
+### :calendar: Lunes 26 de mayo de 2025 
 
 <img height="50px" src="img/clinicapc.png">
 
@@ -82,7 +82,7 @@ Hora de comienzo: 13:40h
 <hr>
 
 ### 1DAW, 1DAM turno de tarde
-#### Lunes 26 de mayo de 2025 
+#### :calendar: Lunes 26 de mayo de 2025 
 
 <img height="36px" src="img/nttdata.png">
 
@@ -267,7 +267,7 @@ Hora de comienzo: 13:40h
 <hr>
 
 ### 1DAW, 1DAM turno de mañana
-#### Martes 27 de mayo de 2025
+#### :calendar: Martes 27 de mayo de 2025
 
 <img height="36px" src="img/accenture.svg">
 
