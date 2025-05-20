@@ -366,6 +366,140 @@ Hora de comienzo: 13:30h
 * [Samuel Márquez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 * [Guillermo Diañez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
+
+
+### :calendar: Miércoles 28 de mayo de 2025 - 1º DAM y 1º DAW
+
+<img height="36px" src="img/sipadan.png">
+
+Hora de comienzo: 9:15h
+
+##### 1ºDAW
+
+* [Navajas García, Gonzalo](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+##### 1ºDAM
+
+* [Salces Alcaraz, Antonio](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="32px" src="img/silice.png">
+
+Hora de comienzo: 9:35h
+
+##### 1ºDAW
+
+* [Bellón Payer, David](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+##### 1ºDAM
+
+* [Vargas Berrocal, Ezequiel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="38px" src="img/triplemelon.png">
+
+Hora de comienzo: 9:55h
+
+##### 1ºDAW
+
+* [Bernal González, Martín](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="38px" src="img/natursis.png">
+
+Hora de comienzo: 10:10h
+
+##### 1ºDAW
+
+* [Espinosa Ramos, Dana](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="38px" src="img/generalelevadores.png">
+
+Hora de comienzo: 10:25h
+
+##### 1ºDAW
+
+* [Fernández-Lomana Herrera, Pablo](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="40px" src="img/genabyte.png">
+
+Hora de comienzo: 10:40h
+
+##### 1ºDAW
+
+* [Palomares Rodríguez, Manuel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="34px" src="img/panaderiasalvador.png">
+
+Hora de comienzo: 10:55h
+
+##### 1ºDAW
+
+* [Rivas García, David](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+##### 1ºDAM
+
+* [López González, José María](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+#### 11:15h - 11:45h - 🥪 D E S A Y U N O ☕  
+
+<hr>
+
+<img height="36px" src="img/iescampanillas.jpg">
+
+Hora de comienzo: 11:45h
+
+##### 1ºDAW
+
+* [Trujillo Fernández, Daniel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="36px" src="img/contalento.png">
+
+Hora de comienzo: 12:00h
+
+##### 1ºDAW
+
+* [Tovar Martín, Antonio](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="34px" src="img/uma.jpeg">
+
+Hora de comienzo: 12:15h
+
+##### 1ºDAM
+
+* [Márquez Ruiz, Samuel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Diáñez Gómez, Guillermo](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
+<hr>
+
+<img height="34px" src="img/angelscaring.png">
+
+Hora de comienzo: 12:35h
+
+##### 1ºDAM
+
+* [García Ruiz, Samuel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [García Luque, Mario](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+
 <hr>
 
 
