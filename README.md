@@ -366,14 +366,6 @@ Hora de comienzo: 11:45h
 
 <hr>
 
-<img height="50px" src="img/uma.jpg">
-
-Hora de comienzo: 13:30h
-
-* [Samuel Márquez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-* [Guillermo Diañez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-
-
 
 ### :calendar: Miércoles 28 de mayo de 2025 - 1º DAM y 1º DAW
 
