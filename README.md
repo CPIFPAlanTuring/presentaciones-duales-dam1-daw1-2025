@@ -316,11 +316,11 @@ Hora de comienzo: 11:45h
 
 ##### 1º DAW
 
-* [García Maldonado, Carlos Hugo](enlace-al-repositorio-con-el-material)
+* [García Maldonado, Carlos Hugo](https://github.com/H3NZPLAYZ/Practicas_ViewNext_Carlos_Hugo_Garcia_Maldonado)
 * [Jimenez Gonzalez, Juan](https://github.com/juan200gt/Presentacion_Dual_1Daw)
-* [Hernandez Montoya, Laura](enlace-al-repositorio-con-el-material)
+* [Hernandez Montoya, Laura](https://github.com/lauhzm/presentacion-dual)
 * [Villena, Lucia](enlace-al-repositorio-con-el-material)
-* [Diaz Plaza, Miriam](enlace-al-repositorio-con-el-material)
+* [Diaz Plaza, Miriam](https://github.com/MiriamDP/Dual_Miriam_Diaz_Plaza/tree/main)
 
 ##### 1º DAM
 * [Jiménez Muñoz, Álvaro](https://github.com/Almucero/Practicas_ViewNext_Alvaro_Jimenez_Munoz)
