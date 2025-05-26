@@ -162,7 +162,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAM
 
-* [Adrián Romero Maldonado](enlace-al-repositorio-con-el-material)
+* [Adrián Romero Maldonado](https://github.com/roomeroo/exposicion-dual)
 
 <hr>
 
@@ -275,7 +275,7 @@ Hora de comienzo: 10:15h
 
 ##### 1ºDAW
 
-* [López Calderón, Ignacio](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [López Calderón, Ignacio](https://github.com/espadachin206/presentacion_Accenture_1-DAW)
 
 <hr>
 
