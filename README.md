@@ -302,7 +302,7 @@ Hora de comienzo: 10:55h
 
 ##### 1º DAM
 
-* [Cano Jiménez, Antonio Lorenzo](enlace-al-repositorio-con-el-material)
+* [Cano Jiménez, Antonio Lorenzo](https://github.com/acanojiDev/Presentacion-DUAL)
 
 <hr>
 
