@@ -324,7 +324,7 @@ Hora de comienzo: 11:45h
 
 ##### 1º DAM
 * [Jiménez Muñoz, Álvaro](https://github.com/Almucero/Practicas_ViewNext_Alvaro_Jimenez_Munoz)
-* [Domínguez González, José Antonio](enlace-al-repositorio-con-el-material)
+* [Domínguez González, José Antonio](https://github.com/Jose-AntonioT8/Presentacion-DUAL-2025)
 
 <hr>
 
