@@ -60,7 +60,7 @@ Hora de comienzo: 12:50h
 
 Hora de comienzo: 13:05h
 
-* [Ignacio Domínguez Díaz](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Ignacio Domínguez Díaz](https://github.com/Idomdia0906/presentacion-dual)
 
 <hr>
 
