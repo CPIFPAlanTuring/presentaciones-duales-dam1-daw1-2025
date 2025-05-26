@@ -68,8 +68,8 @@ Hora de comienzo: 13:05h
 
 Hora de comienzo: 13:20h
 
-* [Francisco Gómez Palomo](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-* [José Vertedor Rodríguez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Francisco Gómez Palomo](https://github.com/git-jvr/Presentacion-DUAL---Solbyte)
+* [José Vertedor Rodríguez](https://github.com/git-jvr/Presentacion-DUAL---Solbyte)
 
 <hr>
 
