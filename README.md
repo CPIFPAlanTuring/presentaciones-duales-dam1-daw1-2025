@@ -52,7 +52,7 @@ Hora de comienzo: 12:35h
 
 Hora de comienzo: 12:50h
 
-* [Noé Medina González](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Noé Medina González](https://github.com/noemg04/PracticasNoe)
 
 <hr>
 
