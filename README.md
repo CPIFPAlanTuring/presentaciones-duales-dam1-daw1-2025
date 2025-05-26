@@ -162,7 +162,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAM
 
-* [Adrián Romero Maldonado](enlace-al-repositorio-con-el-material)
+* [Adrián Romero Maldonado](https://github.com/roomeroo/exposicion-dual)
 
 <hr>
 
