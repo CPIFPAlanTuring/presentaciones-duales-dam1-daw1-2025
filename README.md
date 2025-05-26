@@ -90,13 +90,13 @@ Hora de comienzo: 13:40h
 
 ##### 1ºDAW
 
-* [María Ledesma Zotano](enlace-al-repositorio-con-el-material)
-* [Ainhoa Quintero González](enlace-al-repositorio-con-el-material)
-* [Adriana Salazar Daza](enlace-al-repositorio-con-el-material)
+* [María Ledesma Zotano](https://github.com/angela1006/DUAL)
+* [Ainhoa Quintero González](https://github.com/angela1006/DUAL)
+* [Adriana Salazar Daza](https://github.com/angela1006/DUAL)
 
 ##### 1ºDAM
 
-* [Ángela Mora Mata](enlace-al-repositorio-con-el-material)
+* [Ángela Mora Mata](https://github.com/angela1006/DUAL)
 
 <hr>
 
@@ -172,7 +172,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [Iván Calatayud Merino](enlace-al-repositorio-con-el-material)
+* [Iván Calatayud Merino](https://github.com/Icame05/Presentacion-Dual)
 
 <hr>
 
@@ -202,7 +202,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [Iván Ríos Raya](enlace-al-repositorio-con-el-material)
+* [Iván Ríos Raya](https://github.com/Ivanrr462/Presentacion_Dual)
 
 <hr>
 
@@ -222,7 +222,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [Francisco Manuel Toledo Pérez](enlace-al-repositorio-con-el-material)
+* [Francisco Manuel Toledo Pérez](https://github.com/ftoledo-26/Dual_FMTP#)
 
 <hr>
 
@@ -232,7 +232,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [José María Caracuel Menacho](enlace-al-repositorio-con-el-material)
+* [José María Caracuel Menacho](https://github.com/Jose-Maria-Caracuel/Presentaciones-duales)
 
 <hr>
 
