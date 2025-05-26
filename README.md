@@ -110,7 +110,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAM
 
-* [Miguel Macías del Pino](enlace-al-repositorio-con-el-material)
+* [Miguel Macías del Pino](https://github.com/MiiguelMc/Presentaci-n-Dual-Primero-DAM)
 
 <hr>
 
