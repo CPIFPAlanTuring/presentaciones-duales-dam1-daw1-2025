@@ -212,7 +212,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [Alexánder Sánchez Jara](enlace-al-repositorio-con-el-material)
+* [Alexánder Sánchez Jara](https://github.com/Alex-FVG/Presentacion-Dual)
 
 <hr>
 
