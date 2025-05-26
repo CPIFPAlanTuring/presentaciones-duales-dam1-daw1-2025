@@ -319,7 +319,7 @@ Hora de comienzo: 11:45h
 * [García Maldonado, Carlos Hugo](enlace-al-repositorio-con-el-material)
 * [Jimenez Gonzalez, Juan](https://github.com/juan200gt/Presentacion_Dual_1Daw)
 * [Hernandez Montoya, Laura](enlace-al-repositorio-con-el-material)
-* [Villena, Lucia](enlace-al-repositorio-con-el-material)
+* [Villena, Lucia](https://github.com/Luciluh/Viewnext/tree/main/DUAL1_VIEWNEXT)
 * [Diaz Plaza, Miriam](enlace-al-repositorio-con-el-material)
 
 ##### 1º DAM
