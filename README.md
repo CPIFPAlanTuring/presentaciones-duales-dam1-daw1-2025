@@ -292,7 +292,7 @@ Hora de comienzo: 10:40h
 
 ##### 1ºDAM
 
-* [Butrii,Sergii](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Butrii,Sergii](https://github.com/Sergiibut05/Presentaci-n-Dual-1DAM-Sergii-Butrii/)
 
 <hr>
 
