@@ -27,7 +27,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 Hora de comienzo: 12:00h
 
-* [Carlos Manzanares Muñoz](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Carlos Manzanares Muñoz](https://github.com/Carlos5544/ProyectoDualCMM2025)
 
 <hr>
 
