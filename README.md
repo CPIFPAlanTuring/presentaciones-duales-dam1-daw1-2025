@@ -447,11 +447,11 @@ Hora de comienzo: 10:55h
 
 ##### 1ºDAW
 
-* [Rivas García, David](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Rivas García, David](https://github.com/canlol3/PracticasPanaderiaSalvador)
 
 ##### 1ºDAM
 
-* [López González, José María](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [López González, José María](https://github.com/canlol3/PracticasPanaderiaSalvador)
 
 <hr>
 
