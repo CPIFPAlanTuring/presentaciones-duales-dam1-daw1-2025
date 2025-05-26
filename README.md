@@ -317,7 +317,7 @@ Hora de comienzo: 11:45h
 ##### 1º DAW
 
 * [García Maldonado, Carlos Hugo](enlace-al-repositorio-con-el-material)
-* [Jimenez Gonzalez, Juan](enlace-al-repositorio-con-el-material)
+* [Jimenez Gonzalez, Juan](https://github.com/juan200gt/Presentacion_Dual_1Daw)
 * [Hernandez Montoya, Laura](enlace-al-repositorio-con-el-material)
 * [Villena, Lucia](enlace-al-repositorio-con-el-material)
 * [Diaz Plaza, Miriam](enlace-al-repositorio-con-el-material)
