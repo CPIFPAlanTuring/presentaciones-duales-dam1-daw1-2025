@@ -354,15 +354,15 @@ Hora de comienzo: 11:45h
 
 ##### 1º DAW
 
-* [Mayger Giralde, Mateo Richard](enlace-al-repositorio-con-el-material)
-* [Sánchez Quintero, Rubén](enlace-al-repositorio-con-el-material)
+* [Mayger Giralde, Mateo Richard](https://github.com/albertoomaldonadoo/presentacion-dual-dam1-iuitlm-2025)
+* [Sánchez Quintero, Rubén](https://github.com/albertoomaldonadoo/presentacion-dual-dam1-iuitlm-2025)
 
 <hr>
 
 ##### 1º DAM
 
-* [Ballesteros Martínez, Javier](enlace-al-repositorio-con-el-material)
-* [Maldonado Triana, Alberto](enlace-al-repositorio-con-el-material)
+* [Ballesteros Martínez, Javier](https://github.com/albertoomaldonadoo/presentacion-dual-dam1-iuitlm-2025)
+* [Maldonado Triana, Alberto](https://github.com/albertoomaldonadoo/presentacion-dual-dam1-iuitlm-2025)
 
 <hr>
 
