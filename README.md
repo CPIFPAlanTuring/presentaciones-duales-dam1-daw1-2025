@@ -320,7 +320,7 @@ Hora de comienzo: 11:45h
 * [Jimenez Gonzalez, Juan](https://github.com/juan200gt/Presentacion_Dual_1Daw)
 * [Hernandez Montoya, Laura](enlace-al-repositorio-con-el-material)
 * [Villena, Lucia](enlace-al-repositorio-con-el-material)
-* [Diaz Plaza, Miriam](enlace-al-repositorio-con-el-material)
+* [Diaz Plaza, Miriam](https://github.com/MiriamDP/Dual_Miriam_Diaz_Plaza/tree/main)
 
 ##### 1º DAM
 * [Jiménez Muñoz, Álvaro](https://github.com/Almucero/Practicas_ViewNext_Alvaro_Jimenez_Munoz)
