@@ -281,7 +281,7 @@ Hora de comienzo: 10:15h
 
 ##### 1ºDAM
 
-* [González Ortiz, María del Rosario](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [González Ortiz, María del Rosario](https://github.com/RosarioGonzalez06/Presentacion-Accenture)
 * [Faura Matín, Lucas](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
 
 <hr>
