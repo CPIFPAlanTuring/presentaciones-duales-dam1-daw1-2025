@@ -242,7 +242,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [José Cortés Martín](enlace-al-repositorio-con-el-material)
+* [José Cortés Martín](https://github.com/josecoortes/presentaci-n-DUAL)
 
 <hr>
 
