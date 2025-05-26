@@ -262,7 +262,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [Jesús Ríos López](enlace-al-repositorio-con-el-material)
+* [Jesús Ríos López](https://github.com/JesusRiosLop/Presentacion_practicas)
 
 <hr>
 
