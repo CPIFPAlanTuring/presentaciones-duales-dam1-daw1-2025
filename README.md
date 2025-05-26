@@ -77,7 +77,7 @@ Hora de comienzo: 13:20h
 
 Hora de comienzo: 13:40h
 
-* [Leo Calahorra Ruiz](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Leo Calahorra Ruiz](https://github.com/lcalrui/presentacionPracticas)
 
 <hr>
 
