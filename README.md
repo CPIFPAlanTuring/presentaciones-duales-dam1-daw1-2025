@@ -44,7 +44,7 @@ Hora de comienzo: 12:15h
 
 Hora de comienzo: 12:35h
 
-* [Raúl Ramírez Jiménez](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Raúl Ramírez Jiménez](https://github.com/rramjim1511/dual-RRJ)
 
 <hr>
 
