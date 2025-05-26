@@ -182,7 +182,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAW
 
-* [Jaime Gavilán Torrero](enlace-al-repositorio-con-el-material)
+* [Jaime Gavilán Torrero](https://github.com/JaimeDVP/repositorio-Colegio_JaimeGavilanTorrero)
 
 <hr>
 
