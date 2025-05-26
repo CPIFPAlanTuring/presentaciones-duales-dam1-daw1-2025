@@ -323,7 +323,7 @@ Hora de comienzo: 11:45h
 * [Diaz Plaza, Miriam](enlace-al-repositorio-con-el-material)
 
 ##### 1º DAM
-* [Jiménez Muñoz, Álvaro](enlace-al-repositorio-con-el-material)
+* [Jiménez Muñoz, Álvaro](https://github.com/Almucero/Practicas_ViewNext_Alvaro_Jimenez_Munoz)
 * [Domínguez González, José Antonio](enlace-al-repositorio-con-el-material)
 
 <hr>
