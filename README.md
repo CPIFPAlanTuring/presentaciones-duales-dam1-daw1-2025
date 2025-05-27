@@ -437,7 +437,7 @@ Hora de comienzo: 10:40h
 
 ##### 1ºDAW
 
-* [Palomares Rodríguez, Manuel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Palomares Rodríguez, Manuel](https://github.com/Manolo1709/Presetacion/)
 
 <hr>
 
