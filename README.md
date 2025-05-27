@@ -1,4 +1,4 @@
-# 🚧 🚧 🚧 INFORMACIÓN PROVISIONAL 🏗️ 🏗️ 🏗️
+# INFORMACIÓN PROVISIONAL
 
 # Presentaciones duales de 1º DAW, 1º DAM y 1º ASIR del curso 2024 / 2025
 
