@@ -407,7 +407,7 @@ Hora de comienzo: 9:55h
 
 ##### 1ºDAW
 
-* [Bernal González, Martín](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Bernal González, Martín](https://github.com/Holasoymartin25/Proyecto-Dual-Mbg)
 
 <hr>
 
