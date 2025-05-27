@@ -496,8 +496,8 @@ Hora de comienzo: 12:35h
 
 ##### 1ºDAM
 
-* [García Ruiz, Samuel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
-* [García Luque, Mario](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [García Ruiz, Samuel](https://github.com/sgarrui1201/presentacion_practicas)
+* [García Luque, Mario](https://github.com/Mariogarluu/Presentacion-practicas)
 
 <hr>
 
