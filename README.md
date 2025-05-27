@@ -427,7 +427,7 @@ Hora de comienzo: 10:25h
 
 ##### 1ºDAW
 
-* [Fernández-Lomana Herrera, Pablo](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Fernández-Lomana Herrera, Pablo](https://github.com/Pablo22852/presentacion_dual)
 
 <hr>
 
