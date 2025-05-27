@@ -381,7 +381,7 @@ Hora de comienzo: 9:15h
 
 ##### 1ºDAM
 
-* [Salces Alcaraz, Antonio](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Salces Alcaraz, Antonio](https://github.com/AntonioSalces/presentacion-dual)
 
 <hr>
 
