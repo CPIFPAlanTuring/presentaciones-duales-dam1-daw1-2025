@@ -485,7 +485,7 @@ Hora de comienzo: 12:15h
 
 ##### 1ºDAM
 
-* [Márquez Ruiz, Samuel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Márquez Ruiz, Samuel](https://github.com/SamuelMarquezRuiz/Presentacion-Dual-SamuelMarquez)
 * [Diáñez Gómez, Guillermo](https://github.com/therabbithd/PresentacionDUAL1DAM)
 
 <hr>
