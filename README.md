@@ -375,7 +375,7 @@ Hora de comienzo: 9:15h
 
 ##### 1ºDAW
 
-* [Navajas García, Gonzalo](https://github.com/Parzzig/presentacion-dual-gonzalo-navajas.git)
+* [Navajas García, Gonzalo](https://github.com/Parzzig/presentacion-dual-gonzalo-navajas)
 
 <hr>
 
