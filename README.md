@@ -252,7 +252,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAM
 
-* [Salvador Bueno González](enlace-al-repositorio-con-el-material)
+* [Salvador Bueno González](https://github.com/sbuegonz00/Proyecto-Final)
 
 <hr>
 
