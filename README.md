@@ -397,7 +397,7 @@ Hora de comienzo: 9:35h
 
 ##### 1ºDAM
 
-* [Vargas Berrocal, Ezequiel](poner-aqui-la-direccion-al-repositorio-de-la-presentacion)
+* [Vargas Berrocal, Ezequiel](https://github.com/Ezequielvb/Proyecto-Dual)
 
 <hr>
 
