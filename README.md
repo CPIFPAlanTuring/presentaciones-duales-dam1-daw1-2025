@@ -120,7 +120,7 @@ Hora de comienzo: 13:40h
 
 ##### 1º DAM
 
-* [Hugo De Cristóbal Gómez](enlace-al-repositorio-con-el-material)
+* [Hugo De Cristóbal Gómez](https://github.com/hugocg875/PresentacionDual)
 * [Daniel Gonzánlez Molina](enlace-al-repositorio-con-el-material)
 
 <hr>
